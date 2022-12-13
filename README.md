@@ -1,7 +1,7 @@
 # Restaurant App
 
 this app I made it by watch this video: https://youtu.be/kmU7uX3ZHJc
-throughout this video I learned build home screen and add, get and login google from firebase and store cart in localstorage but after finish this video I convert cart to firebase collection.
+throughout this video I learned build home screen, add, get product and login google from firebase and store cart in localstorage but after finish this video I convert cart to firebase collection.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
